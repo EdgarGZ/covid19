@@ -1,0 +1,7 @@
+.mapboxgl-canvas {
+    border-radius: 15px;
+}
+
+.mapboxgl-canvas-container.mapboxgl-interactive.mapboxgl-touch-drag-pan.mapboxgl-touch-zoom-rotate{
+    background-color: black;
+}
